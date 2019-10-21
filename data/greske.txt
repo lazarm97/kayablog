@@ -1,0 +1,16 @@
+Greska prilikom logovanja! Korisnik sa ovim emailom i pasvordom nepostoji!
+Greska prilikom registracije! Sifre nisu iste!
+Greska prilikom logovanja! Korisnik sa ovim emailom i pasvordom nepostoji!
+Greska prilikom logovanja! Korisnik sa ovim emailom i pasvordom nepostoji!
+Greska prilikom dodavanja poruka!
+Greska prilikom dodavanja poruka!
+Greska prilikom dodavanja poruka!
+Greska prilikom dodavanja poruka!
+Greska prilikom dodavanja poruka!
+Greska prilikom dodavanja poruka!
+Greska prilikom dodavanja poruka!
+Greska prilikom dodavanja poruka!
+Greska prilikom dodavanja poruka!
+Greska prilikom logovanja! Korisnik sa ovim emailom i pasvordom nepostoji!
+Greska prilikom logovanja! Korisnik sa ovim emailom i pasvordom nepostoji!
+Message could not be sent. Mailer Error: SMTP Error: Could not connect to SMTP host.
